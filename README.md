@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#!/csh/tobe/computervisionengineer/takeagoodlook
 
 
 class ComputerVisionEngineer:
