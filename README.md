@@ -32,8 +32,8 @@ class ComputerVisionEngineer:
         pass
 
 
-me = ComputerVisionEngineer()
-me.say_hi()
+who_am_i = ComputerVisionEngineer()
+who_am_i.say_hi()
 ```
 
 ## 🔧 Technologies & Tools
