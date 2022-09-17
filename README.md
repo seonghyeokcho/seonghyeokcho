@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class ComputerVisionEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "SeongHyeok Cho"
+        self.to_be = "Computer Vision Engineer & Researcher"
+        self.language_spoken = ["ko_KR"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = ComputerVisionEngineer()
 me.say_hi()
 ```
 
