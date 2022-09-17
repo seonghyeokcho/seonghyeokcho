@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -31,7 +32,7 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-
+```
 
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
