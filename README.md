@@ -34,7 +34,14 @@ me = ComputerVisionEngineer()
 me.say_hi()
 ```
 
+## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/seonghyeokcho/seonghyeokcho/Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seonghyeokcho&repo=Python&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Python" />
+</a>
