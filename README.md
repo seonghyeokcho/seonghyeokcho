@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
