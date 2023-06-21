@@ -44,6 +44,6 @@ who_am_i.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/seonghyeokcho/ComputerVision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seonghyeokcho&repo=ComputerVision&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ComputerVision"/>
+<a href="https://github.com/seonghyeokcho/Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seonghyeokcho&repo=Projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Projects"/>
 </a>
