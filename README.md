@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```python
-#!/csh/tobe/computervisionengineer/takeagoodlook
+#!/csh/tobe/deeplearningengineer/takeagoodlook
 
 
 class DeepLearningEngineer:
