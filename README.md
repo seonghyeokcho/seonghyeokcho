@@ -18,21 +18,19 @@ Here are some ideas to get you started:
 #!/csh/tobe/computervisionengineer/takeagoodlook
 
 
-class ComputerVisionEngineer:
+class DeepLearningEngineer:
 
     def __init__(self):
         self.name = "SeongHyeok Cho"
-        self.to_be = "Computer Vision Engineer"  # & it could be a Researcher
+        self.to_be = "Deep Learning Engineer"  # & it could be a Researcher
         self.language_spoken = ["ko_KR"]
+
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
     
-    def goals(self):
-        pass
 
-
-who_am_i = ComputerVisionEngineer()
+who_am_i = DeepLearningEngineer()
 who_am_i.say_hi()
 ```
 
