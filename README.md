@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```python
-#!/csh/tobe/deeplearningengineer/takeagoodlook
+#!/csh/tobe/aiengineer/takeagoodlook
 
 
-class DeepLearningEngineer:
+class AIEngineer:
 
     def __init__(self):
         self.name = "SeongHyeok Cho"
-        self.to_be = "Deep Learning Engineer"  # & it could be a Researcher
+        self.to_be = "A.I Engineer"  # & it could be a Researcher
         self.language_spoken = ["ko_KR"]
 
 
@@ -30,7 +30,7 @@ class DeepLearningEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
     
 
-who_am_i = DeepLearningEngineer()
+who_am_i = AIEngineer()
 who_am_i.say_hi()
 ```
 
